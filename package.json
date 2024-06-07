@@ -5,6 +5,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  
+  "devDependencies": {
+    "mocha": "^10.4.0",
+    "supertest": "^6.1.6"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
